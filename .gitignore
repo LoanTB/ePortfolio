@@ -1,0 +1,19 @@
+# Fichiers de configuration de l'IDE PhpStorm
+.idea/
+*.iml
+
+# Dossiers et fichiers temporaires
+*.tmp
+temp/
+
+# Dossiers spécifiques au système
+.DS_Store
+Thumbs.db
+
+# Dossiers de build et de dépendances
+node_modules/
+dist/
+build/
+
+# Fichiers de logs
+*.log
